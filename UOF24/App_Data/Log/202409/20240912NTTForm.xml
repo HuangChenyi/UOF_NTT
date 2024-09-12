@@ -1,0 +1,32 @@
+﻿<Event eventID="74159b49-a0ba-47c4-b678-2a6a73435a33" LogTime="2024/09/12 16:41:50" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_NTT/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+&lt;Form formVersionId=&quot;1004107e-0993-4b83-945e-539d9fb42910&quot; urgentLevel=&quot;2&quot;&gt;
+  &lt;Applicant account=&quot;admin&quot; groupId=&quot;&quot; jobTitleId=&quot;&quot;&gt;
+    &lt;Comment&gt;&lt;/Comment&gt;
+  &lt;/Applicant&gt;
+  &lt;FormFieldValue&gt;
+    &lt;FieldItem fieldId=&quot;NO&quot; fieldValue=&quot;&quot; IsNeedAutoNbr=&quot;false&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;type&quot; fieldValue=&quot;&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;item&quot; fieldValue=&quot;sss&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;amount&quot; fieldValue=&quot;12&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;RefForm&quot; ConditionValue=&quot;&quot; realValue=&quot;&quot;&gt;
+      &lt;FormChooseInfo taskGuid=&quot;0d5eb733-327d-47b6-974b-964850260aaf&quot; /&gt;
+    &lt;/FieldItem&gt;
+  &lt;/FormFieldValue&gt;
+&lt;/Form&gt;
+</Event>
+<Event eventID="66969254-8bd6-4a73-b020-b459ebd17476" LogTime="2024/09/12 16:43:10" User="admin" Url="/UOF_NTT/WKF/Admin/CallDllFormList.aspx" Assembly="Training, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+&lt;Form formVersionId=&quot;1004107e-0993-4b83-945e-539d9fb42910&quot; urgentLevel=&quot;2&quot;&gt;
+  &lt;Applicant account=&quot;Tony&quot; groupId=&quot;&quot; jobTitleId=&quot;&quot;&gt;
+    &lt;Comment&gt;&lt;/Comment&gt;
+  &lt;/Applicant&gt;
+  &lt;FormFieldValue&gt;
+    &lt;FieldItem fieldId=&quot;NO&quot; fieldValue=&quot;&quot; IsNeedAutoNbr=&quot;false&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;type&quot; fieldValue=&quot;&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;item&quot; fieldValue=&quot;sss&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;amount&quot; fieldValue=&quot;12&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;RefForm&quot; ConditionValue=&quot;&quot; realValue=&quot;&quot;&gt;
+      &lt;FormChooseInfo taskGuid=&quot;0d5eb733-327d-47b6-974b-964850260aaf&quot; /&gt;
+    &lt;/FieldItem&gt;
+  &lt;/FormFieldValue&gt;
+&lt;/Form&gt;
+</Event>

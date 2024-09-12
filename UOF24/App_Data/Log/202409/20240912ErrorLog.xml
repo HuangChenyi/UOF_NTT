@@ -3,3 +3,7 @@ Applicant: File [AA/plugin.xml]  not found;
    於 Ede.Uof.WKF.Utility.TransferAttachFile.Transfer(String mode, XmlNode xmlNode, String userGuid) 於 Z:\Builds\20\UofAgile\3.Setup\src\Lib\WKF\Ede.Uof.WKF\Utility\TransferAttachFile.cs: 行 201
    於 Ede.Uof.WKF.Utility.TaskUtilityUCO.WebService_CreateTask(String xmlApplyFormInfo) 於 Z:\Builds\20\UofAgile\3.Setup\src\Lib\WKF\Ede.Uof.WKF\Utility\TaskUtilityUCO2.cs: 行 7198
 </Event>
+<Event eventID="4fd19bf5-9272-4b14-94a6-b1a1d8993b5b" LogTime="2024/09/12 16:41:50" User="c496e32b-0968-4de5-95fc-acf7e5a561c0" Url="/UOF_NTT/WKF/FormUse/DefinedTask/OtherSiteSend.aspx" Assembly="Ede.Uof.WKF, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+起單失敗，申請者(admin)沒有設定職稱(級)!!
+   於 Ede.Uof.WKF.Utility.TaskUtilityUCO.WebService_CreateTask(String xmlApplyFormInfo) 於 Z:\Builds\20\UofAgile\3.Setup\src\Lib\WKF\Ede.Uof.WKF\Utility\TaskUtilityUCO2.cs: 行 6973
+</Event>
