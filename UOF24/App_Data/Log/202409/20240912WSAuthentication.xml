@@ -1,0 +1,15 @@
+﻿<Event eventID="0a93c329-fe16-42d8-80c5-c462c7fc6a08" LogTime="2024/09/12 13:40:44" User="" Url="/UOF_NTT/PublicAPI/System/Authentication.asmx" Assembly="Ede.Uof.EIP.Security, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Application:ERP, Account:admin, IP:::1 authentication success
+</Event>
+<Event eventID="fed10adc-5b0c-4868-9d30-b0bf80bd967e" LogTime="2024/09/12 13:42:40" User="" Url="/UOF_NTT/PublicAPI/System/Authentication.asmx" Assembly="Ede.Uof.EIP.Security, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Application:ERP, Account:admin, IP:::1 authentication success
+</Event>
+<Event eventID="093d5d3e-5866-4861-9942-a233f0de3e34" LogTime="2024/09/12 13:43:33" User="" Url="/UOF_NTT/PublicAPI/System/Authentication.asmx" Assembly="Ede.Uof.EIP.Security, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Application:ERP, Account:admin, IP:::1 authentication success
+</Event>
+<Event eventID="fcadbd02-1e71-4614-8b33-f6946bced64c" LogTime="2024/09/12 13:51:55" User="" Url="/UOF_NTT/PublicAPI/System/Authentication.asmx" Assembly="Ede.Uof.EIP.Security, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Application:ERP, Account:admin, IP:::1 authentication success
+</Event>
+<Event eventID="4abe852e-f6ed-4884-a28e-ff2f13537bf1" LogTime="2024/09/12 13:53:02" User="" Url="/UOF_NTT/PublicAPI/System/Authentication.asmx" Assembly="Ede.Uof.EIP.Security, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Application:ERP, Account:admin, IP:::1 authentication success
+</Event>

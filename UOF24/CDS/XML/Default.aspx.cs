@@ -61,6 +61,7 @@ public partial class CDS_XML_Default : Ede.Uof.Utility.Page.BasePage
         //  <Item id='A03' value='V03' />
         //<FieldValue>
 
-        txtValue.Text = xmlDoc.SelectSingleNode(string.Format("./FieldValue/Item[@id='{0}']", txtID.Text)).Attributes["value"].Value;
+        txtValue.Text = xmlDoc.SelectSingleNode(string.Format(
+            "./FieldValue/Item[@id='{0}']", txtID.Text)).Attributes["value"].Value;
     }
 }

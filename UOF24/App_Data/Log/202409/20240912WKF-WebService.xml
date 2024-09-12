@@ -1,0 +1,20 @@
+﻿<Event eventID="bea59f15-da61-4a6c-9cce-f802f44e17c3" LogTime="2024/09/12 13:51:56" User="admin" Url="/UOF_NTT/PublicAPI/WKF/Wkf.asmx" Assembly="Ede.Uof.Web, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+呼叫方法：SendForm
+狀態：&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;ReturnValue&gt;
+  &lt;Status&gt;1&lt;/Status&gt;
+  &lt;FormNumber&gt;BUL240900001&lt;/FormNumber&gt;
+  &lt;TaskId&gt;fc47e2b0-0dbf-4e7f-974e-1c1aef45de80&lt;/TaskId&gt;
+&lt;/ReturnValue&gt;
+結果：&lt;Form formVersionId=&quot;6fd8fa9c-ecc2-41b3-8315-7c77d9e9e676&quot; urgentLevel=&quot;2&quot;&gt;
+  &lt;Applicant account=&quot;Tony&quot; groupId=&quot;&quot; jobTitleId=&quot;&quot;&gt;
+    &lt;Comment&gt;這是意見&lt;/Comment&gt;
+  &lt;/Applicant&gt;
+  &lt;FormFieldValue&gt;
+    &lt;FieldItem fieldId=&quot;NO&quot; fieldValue=&quot;&quot; IsNeedAutoNbr=&quot;false&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;type&quot; fieldValue=&quot;A&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;item&quot; fieldValue=&quot;A項目&quot; /&gt;
+    &lt;FieldItem fieldId=&quot;amount&quot; fieldValue=&quot;100&quot; /&gt;
+  &lt;/FormFieldValue&gt;
+&lt;/Form&gt;
+</Event>

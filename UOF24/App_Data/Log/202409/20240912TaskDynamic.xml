@@ -1,0 +1,54 @@
+﻿<Event eventID="8fee132e-2144-493c-af00-5ca8971d312c" LogTime="2024/09/12 11:32:22" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey 161BF546-79D3-4E98-9C3A-66A13893E34A is started
+</Event>
+<Event eventID="d04ca607-5985-42be-ad8c-960871a2841e" LogTime="2024/09/12 11:32:22" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.WKF.RefineCurrentDocTask with DataKey EnableSearchRefineTask is started
+</Event>
+<Event eventID="bc550bfb-bb6a-4c20-9fe7-52a20ce64c1e" LogTime="2024/09/12 11:32:22" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey 161BF546-79D3-4E98-9C3A-66A13893E34A is successed
+</Event>
+<Event eventID="733f3ab9-84b5-420d-a72d-296db2edfad9" LogTime="2024/09/12 11:32:22" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.WKF.RefineCurrentDocTask with DataKey EnableSearchRefineTask is successed
+</Event>
+<Event eventID="abba568e-54de-4c8c-8f89-67f437e3f5e5" LogTime="2024/09/12 11:32:23" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey B1E96E51-25D9-46DD-87EB-FFB09D0375F4 is started
+</Event>
+<Event eventID="92d22b22-c71e-4ac4-99df-8dc6d838711e" LogTime="2024/09/12 11:32:23" User="" Url="" Assembly="Ede.Uof.Utility.Task.Engine, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Task:Ede.Uof.EIP.HR104.SyncHR.SyncCompanyTask with DataKey B1E96E51-25D9-46DD-87EB-FFB09D0375F4 is successed
+</Event>
+<Event eventID="29fc8ac0-742c-4ee6-9187-5d0635be89f5" LogTime="2024/09/12 11:40:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="773b1cbd-a72c-4ae5-8fd8-05c333063d0c" LogTime="2024/09/12 11:50:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="9f8879a1-3211-44ce-979d-d887034b5b8b" LogTime="2024/09/12 12:00:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="9cc78b9a-c5b0-409e-b2a1-c748798d8c19" LogTime="2024/09/12 12:10:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="1508c63e-da34-4941-9e42-2b0c8b3f571d" LogTime="2024/09/12 12:20:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="26e3c30f-1238-49c7-bd0d-2c6d3ae08562" LogTime="2024/09/12 12:30:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="fe636150-3ca3-4212-9c14-9e4b52e1eeaf" LogTime="2024/09/12 12:40:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="20e71d35-1d4f-4b06-8acd-eadb6f25d472" LogTime="2024/09/12 12:50:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="748fca34-4646-417a-897e-73df64f7d183" LogTime="2024/09/12 13:00:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="5d416e29-5e2a-4cfe-86bc-b0fa5b5446b9" LogTime="2024/09/12 13:10:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="b90de6ae-5f60-40ab-918c-fd655b6488c0" LogTime="2024/09/12 13:20:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
+<Event eventID="69cfadfb-8a8c-44bd-a780-7b5e3b8726b2" LogTime="2024/09/12 13:30:30" User="" Url="" Assembly="Ede.Uof.Utility.Task, Version=24.0.8398.52406, Culture=neutral, PublicKeyToken=null">
+Call dynamic/InterruptTimeout done
+</Event>
