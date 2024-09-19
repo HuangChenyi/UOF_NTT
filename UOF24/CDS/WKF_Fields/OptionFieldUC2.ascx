@@ -3,7 +3,33 @@
 <%@ Register Src="~/Common/ChoiceCenter/UC_ChoiceList.ascx" TagPrefix="uc1" TagName="UC_ChoiceList" %>
 
 
+<script>
 
+    function CheckedData(source, arguments) {
+
+
+
+        var item = $('#<%=txtItem.ClientID%>').val();
+        
+        var amount = $find("<%=rnumAmount.ClientID%>").get_value();
+
+        var data = [item,amount];
+        var result = $uof.pageMethod.syncUc("CDS/WKF_Fields/OptionFieldUC2.ascx", "CheckedData", data);
+    
+        if (result !="") {
+            arguments.IsValid = false;
+            $('#<%=CustomValidator1.ClientID%>').text(result);
+            return;
+        }
+        else {
+                        arguments.IsValid = true;
+            return;
+        }
+    
+
+    }
+
+</script>
 
 <table class="PopTable" style="width:600px">
     <tr>
@@ -46,6 +72,12 @@
         </td>
     </tr>
 </table>
+
+<asp:CustomValidator ID="CustomValidator1" runat="server" 
+    Display="Dynamic" ClientValidationFunction="CheckedData"
+    ErrorMessage="CustomValidator"></asp:CustomValidator>
+
+
 
 <asp:Label ID="lblHasNoAuthority" runat="server" Text="無填寫權限" ForeColor="Red" Visible="False" meta:resourcekey="lblHasNoAuthorityResource1"></asp:Label>
 <asp:Label ID="lblToolTipMsg" runat="server" Text="不允許修改(唯讀)" Visible="False" meta:resourcekey="lblToolTipMsgResource1"></asp:Label>

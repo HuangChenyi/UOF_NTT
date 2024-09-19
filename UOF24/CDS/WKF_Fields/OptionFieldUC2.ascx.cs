@@ -18,6 +18,7 @@ using System.Xml;
 using System.Linq;
 using System.Xml.Linq;
 using Ede.Uof.EIP.SystemInfo;
+using Google.Apis.Http;
 
 public partial class WKF_OptionalFields_OptionFieldUC2 : WKF_FormManagement_VersionFieldUserControl_VersionFieldUC
 {
@@ -279,5 +280,24 @@ public partial class WKF_OptionalFields_OptionFieldUC2 : WKF_FormManagement_Vers
             } 
             #endregion
         }
+
+
+    }
+
+    public string CheckedData(string item, double amount)
+    {
+        if (item == "A" &&  Convert.ToDecimal( amount) >= 100)
+        {
+            return "當類別為A時金額不可超過100";
+        }
+        else if (item == "B" && Convert.ToDecimal(amount) >= 200)
+        {
+            return "當類別為B時金額不可超過200";
+        }
+        else 
+        {
+            return "";
+        }
+
     }
 }
