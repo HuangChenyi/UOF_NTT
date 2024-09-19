@@ -9,8 +9,7 @@
 
 
 
-        var item = $('#<%=txtItem.ClientID%>').val();
-        
+        var item = $("#<%=rbListType.ClientID%> input[type=radio]:checked").val();      
         var amount = $find("<%=rnumAmount.ClientID%>").get_value();
 
         var data = [item,amount];
@@ -38,9 +37,9 @@
         </td>
         <td>
             <asp:RadioButtonList ID="rbListType" runat="server" RepeatDirection="Horizontal">
-                <asp:ListItem>A</asp:ListItem>
-                 <asp:ListItem>B</asp:ListItem>
-                 <asp:ListItem>C</asp:ListItem>
+                <asp:ListItem Value="A">A</asp:ListItem>
+                 <asp:ListItem Value="B">B</asp:ListItem>
+                 <asp:ListItem Value="C">C</asp:ListItem>
             </asp:RadioButtonList>
         </td>
     </tr>
