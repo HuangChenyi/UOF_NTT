@@ -1418,6 +1418,36 @@
             <Value Culture="vi" Name="外掛欄位範例1" />
           </Display>
         </FieldItem>
+        <FieldItem DesignUI="~/CDS/WKF_Fields/SetupField_OptionField2.aspx" WriteUI="~/CDS/WKF_Fields/OptionFieldUC2.ascx" FieldName="NTT_optionField2">
+          <Display>
+            <Value Culture="zh-TW" Name="外掛欄位範例2" />
+            <Value Culture="zh-CN" Name="外掛欄位範例2" />
+            <Value Culture="en-US" Name="外掛欄位範例2" />
+            <Value Culture="vi" Name="外掛欄位範例2" />
+          </Display>
+          <Condition>
+            <Tag Name="type">
+              <Display Clture="zh-TW" Name="採購類別" />
+              <Display Clture="zh-CN" Name="採購類別" />
+              <Display Clture="en-US" Name="採購類別" />
+              <Display Clture="vi" Name="採購類別" />
+            </Tag>
+            <Tag Name="amount">
+              <Display Clture="zh-TW" Name="金額" />
+              <Display Clture="zh-CN" Name="金額" />
+              <Display Clture="en-US" Name="金額" />
+              <Display Clture="vi" Name="金額" />
+            </Tag>
+          </Condition>
+          <RealValue>
+            <Tag Name="owner">
+              <Display Clture="zh-TW" Name="負責人" />
+              <Display Clture="zh-CN" Name="負責人" />
+              <Display Clture="en-US" Name="負責人" />
+              <Display Clture="vi" Name="負責人" />
+            </Tag>
+          </RealValue>
+        </FieldItem>
       </OptionalField>
     </Field>
   </WKF>
